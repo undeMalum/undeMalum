@@ -13,6 +13,11 @@
 
 - ⚡ Fun fact: **I am a goalkeeper who can juggle!**
 
+## My projects 🎈
+  - [GHOST x IRIM](https://github.com/GHOST-Science-Club/tree-classification-irim): An initiative by the GHOST student organization to develop and test an AI algorithm for identifying tree species from aerial photos, focusing on Polish forests. This team effort aims to surpass the current SOTA on the [PureForest](https://huggingface.co/datasets/IGNF/PureForest) dataset and possibly write a publication about our results in the future.
+  - [IPD IMGT Python Wrapper](https://github.com/undeMalum/ipd-imgt-hla-python-wrapper): Python package that allows the retrieval of data from the IPD-IMGT/HLA database.
+  - [CAS Manger](https://github.com/undeMalum/CAS-manager): CAS Manager aims to help CAS coordinators in the maintenance of their students' CAS portfolios by providing one convenient place to store and easily retrieve those portfolios.
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
