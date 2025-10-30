@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mateusz-konat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz-konat" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@mateuszkonat2552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mateuszkonat2552" height="30" width="40" /></a>
-<a href="/fetchrss.com/feed/aqnwkgyrgpkyaqnvv_p-snty.rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="fetchrss.com/feed/aqnwkgyrgpkyaqnvv_p-snty.rss" height="30" width="40" /></a>
+<a href="/https://politepol.com/fd/kqTVXP4Yw27S.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="fetchrss.com/feed/aqnwkgyrgpkyaqnvv_p-snty.rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
