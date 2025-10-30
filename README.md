@@ -20,6 +20,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GHOST Day. GHOSTxIRIM revealed!](https://undemalum.github.io/portfolio/posts/ghost-day/)
+- [Marimo as the successor to Jupyter Notebook.](https://undemalum.github.io/portfolio/posts/marimo-overview/)
+- [Engineer’s Talks. IBD and more](https://undemalum.github.io/portfolio/posts/engineers-talks/)
+- [Decoding Biosignals. EUNICE](https://undemalum.github.io/portfolio/posts/biosignals/)
+- [Tox. Platform Dependent Setup &lpar;GHOSTxIRIM&rpar;](https://undemalum.github.io/portfolio/posts/tox-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
