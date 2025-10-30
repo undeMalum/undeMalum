@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mateusz [dot] konat [dot] py [at] gmail [dot] com**
 
-- 📄 Know about my experiences [https://rxresu.me/undemalum/cv-eng-3](https://rxresu.me/undemalum/cv-eng-3)
+- 📄 Know about my experiences: [Resume/CV](https://rxresu.me/undemalum/cv-eng-3)
 
 - ⚡ Fun fact: **I am a goalkeeper who can juggle!**
 
